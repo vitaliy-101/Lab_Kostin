@@ -1,3 +1,5 @@
 doing task 6 in third
 rebase with conflict master
 go
+rebase with conflict test
+
